@@ -1,7 +1,7 @@
 ﻿// HW1a Sales Total
 
 // Your Name:Matthew Troutman
-// Did you seek help ? If yes, specify the helper or web link here: 
+// Did you seek help ? If yes, specify the helper or web link here: My Roomate Helped me calculate the subtotal, salesTax, and Total.
 
 using System;
 using System.Collections.Generic;
